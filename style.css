@@ -287,16 +287,17 @@ body {
     background-color: rgb(12, 60, 96);
     color: white;
 }
-.main4a{
+
+.main4a {
     width: 100%;
-    height:700px;
+    height: 700px;
     background-color: white;
     display: flex;
-    justify-content:space-around;
+    justify-content: space-around;
     align-items: center;
 }
 
-.main4{
+.main4 {
     width: 1000px;
     height: 700px;
     display: flex;
@@ -306,6 +307,7 @@ body {
     background-color: white;
     font-weight: lighter;
 }
+
 .main4 .g {
     display: flex;
     flex-wrap: wrap;
@@ -318,31 +320,48 @@ body {
     align-items: center;
     flex-direction: column; */
 }
-.main4 .g1, .g2, .g3, .g4, .g5, .g6, .g7, .g8 {
-   width: 200px;
-   height: 200px;
+
+.main4 .g1,
+.g2,
+.g3,
+.g4,
+.g5,
+.g6,
+.g7,
+.g8 {
+    width: 200px;
+    height: 200px;
     margin: 20px;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
-.main4 .g5, .g6, .g7, .g8 {
+
+.main4 .g5,
+.g6,
+.g7,
+.g8 {
     width: 200px;
     height: 50px;
     font-size: 15px;
 }
+
 .main4 .g1 {
     background-image: url("image/3.avif");
 }
+
 .main4 .g2 {
     background-image: url("image/4.avif");
 }
+
 .main4 .g3 {
     background-image: url("image/5.avif");
 }
+
 .main4 .g4 {
     background-image: url("image/6.avif");
 }
+
 .main4 .button {
     width: 150px;
     height: 50px;
@@ -351,21 +370,25 @@ body {
     background-color: transparent;
     border: 1px solid black;
 }
+
 .main4 .button:hover {
     background-color: rgb(12, 60, 96);
     color: white;
 }
-.main5{
+
+.main5 {
     width: 100%;
     height: 500px;
     background-color: white;
 }
+
 .main5 iframe {
     width: 100%;
     height: 100%;
     border: none;
 }
-footer{
+
+footer {
     width: 100%;
     height: 400px;
     background-color: rgb(7, 33, 54);
@@ -374,7 +397,8 @@ footer{
     justify-content: space-around;
     align-items: center;
 }
-footer .a{
+
+footer .a {
     width: 30%;
     height: 100%;
     /* border: 1px solid white; */
@@ -383,7 +407,8 @@ footer .a{
     align-items: center;
     flex-direction: column;
 }
-footer .a .logo{
+
+footer .a .logo {
     width: 200px;
     height: 50px;
     border: 1px;
@@ -391,20 +416,23 @@ footer .a .logo{
     justify-content: center;
     align-items: center;
 }
-footer .a .logo a{
+
+footer .a .logo a {
     text-decoration: none;
     color: white;
     font-size: 20px;
     margin-top: 50px;
     /* border: 1px solid white; */
 }
-footer .a .pragraph{
+
+footer .a .pragraph {
     width: 180px;
     height: 200px;
     margin-right: 10px;
-    
+
 }
-footer .b{
+
+footer .b {
     width: 30%;
     height: 100%;
     /* border: 1px solid white; */
@@ -413,7 +441,8 @@ footer .b{
     align-items: center;
     flex-direction: column;
 }
-footer .b .b1{
+
+footer .b .b1 {
     width: 200px;
     height: 50px;
     margin-top: 87px;
@@ -422,16 +451,18 @@ footer .b .b1{
     font-family: Arial, Helvetica, sans-serif;
     /* border: 1px solid white; */
 }
-footer .b .b2{
+
+footer .b .b2 {
     width: 200px;
     height: 200px;
     margin-bottom: 50px;
     display: flex;
     flex-direction: column;
     /* border: 1px solid white; */
-   
+
 }
-footer .b a{
+
+footer .b a {
     text-decoration: none;
     font-family: Arial, Helvetica, sans-serif;
     /* font-weight: 300px; */
@@ -439,43 +470,55 @@ footer .b a{
     font-size: 17px;
     line-height: 1.8;
 }
+
 footer .b a:hover {
     color: aqua;
 }
-footer .c{
+
+footer .c {
     width: 30%;
     height: 100%;
     /* border: 1px solid white; */
 }
-footer .c .c1{
+
+footer .c .c1 {
     width: 200px;
     height: 50px;
     font-size: 20px;
     /* border: 1px solid white; */
     margin-top: 80px;
 }
-footer .c .c2{
+
+footer .c .c2 {
     width: 200px;
     height: 100px;
     /* border: 1px solid white; */
-    
+
 }
-footer .c .c2 a{
+
+footer .c .c2 a {
     text-decoration: none;
     /* color: white; */
     font-size: 17px;
     line-height: 1.8;
 }
-footer .c .c2 i{
+
+footer .c .c2 i {
     color: white;
     font-size: 25px;
 }
+
 footer .c .c2 a:hover {
     color: aqua;
 }
-footer .c .c3{
+
+footer .c .c3 {
     width: 235px;
     height: 100px;
     /* border: 1px solid white; */
 }
 
+footer .c3 p a {
+    color: white;
+    font-weight: normal;
+}
