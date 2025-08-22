@@ -1,0 +1,354 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Document</title>
+  <link rel="stylesheet" href="styles.css" />
+  <link href="https://cdn.jsdelivr.net/npm/remixicon@3.5.0/fonts/remixicon.css" rel="stylesheet" />
+</head>
+
+<body>
+  <header>
+    <div class="logo">
+      <!-- <img src="logo.svg" alt="" /> -->
+    </div>
+    <div class="nav">
+      <a href="">ACADEMICS</a>
+      <a href="">ADMISSION & AID</a>
+      <a href="">LIFE AT UNIVERSITY</a>
+      <a href="">PLACEMENTS</a>
+      <a href="">ABOUT US</a>
+      <a href="">INTERNATIONAL</a>
+      <a href="">CONTACT</a>
+    </div>
+  </header>
+  <div class="main">
+    <div class="a">
+      <div class="a1">
+        <p>Shaping Leaders of Tomorrow</p>
+      </div>
+      <div class="a2">
+        <img src="image/arrow.png" alt="" />
+      </div>
+      <div class="a3">
+        <p>
+          Welcome to Marwadi University where we make students' holistic
+          development our focus.
+        </p>
+      </div>
+    </div>
+    <div class="b">
+      <img src="image/2.png" alt="" />
+    </div>
+  </div>
+  <div class="main2">
+    <div class="head">
+      <p>Find the right programme</p>
+    </div>
+    <div class="box">
+      <div class="name">
+        <a href="">UNDERGRADUATE PROGRAMME</a>
+        <a href="">POSTGRADUATE PROGRAMME</a>
+        <a href="">DIPLOMA COURSE</a>
+        <a href="">RESEARCH & INNOVATION</a>
+        <a href="">ONLINE COURSE</a>
+      </div>
+      <div class="boxes">
+        <div class="box1"></div>
+        <div class="box2">
+          <div class="b1">
+            <i class="ri-computer-line"></i><br />
+            <p>Engineering & Technology</p>
+          </div>
+          <div class="b2">
+            <i class="ri-capsule-line"></i><br />
+            <p>Pharmacy</p>
+          </div>
+          <div class="b3">
+            <i class="ri-auction-line"></i><br />
+            <p>Law</p>
+          </div>
+          <div class="b4">
+            <i class="ri-donut-chart-fill"></i><br />
+            <p>Management</p>
+          </div>
+          <div class="b5">
+            <i class="ri-music-fill"></i><br />
+            <p>Arts</p>
+          </div>
+          <div class="b6">
+            <i class="ri-flask-line"></i><br />
+            <p>Science</p>
+          </div>
+          <div class="b7">
+            <i class="ri-mac-fill"></i></i><br />
+            <p>Computer Application</p>
+          </div>
+          <div class="b8">
+            <i class="ri-hospital-line"></i><br>
+            <p>Physiotherapy</p>
+          </div>
+          <div class="b9">
+            <i class="ri-nurse-fill"></i><br>
+            <p>Nursing</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="main3">
+    <div id="a">
+      <p>Why US</p>
+    </div>
+    <div id="b">
+      <div class="k">
+        <div class="k11" id="k1">
+          <p>A+</p>
+        </div>
+        <div class="k22" id="k2">
+          <p>NAAC Accredited</p>
+        </div>
+      </div>
+      <div class="h">
+        <div class="k11" id="h1">
+          <p>Tier-1</p>
+        </div>
+        <div class="k22" id="h2">
+          <p>NBA Accreditation</p>
+        </div>
+      </div>
+      <div class="u">
+        <div class="k11" id="u1">
+          <p>770+</p>
+        </div>
+        <div class="k22" id="u2">
+          <p>Patents Filed</p>
+        </div>
+      </div>
+      <div class="s">
+        <div class="k11" id="s1">
+          <p>250</p>
+        </div>
+        <div class="k22" id="s2">
+          <p>Global Alliances</p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="main4">
+    <div class="v">
+      <p>What's on Campus</p>
+    </div>
+    <div class="i">
+      <div class="i1">
+        <a href="">Hostels</a>
+        <a href="">Transportation</a>
+        <a href="">Library</a>
+        <a href="">Physical Education</a>
+        <a href="">Student Clubs</a>
+      </div>
+      <div class="i2">
+        <a href="">Music & Dance</a>
+        <a href="">Cafeteria</a>
+        <a href="">Amphitheatre</a>
+        <a href="">Medical Room</a>
+      </div>
+      <div class="i3">
+        <a href="">Lake and Jogging Track</a>
+        <a href="">Highly Secure</a>
+        <a href="">Auditorium</a>
+      </div>
+      <div class="i4">
+        <a href="">Banking and ATM Facility</a>
+        <a href="">Sports Club</a>
+        <a href="">Advanced Labs</a>
+      </div>
+    </div>
+  </div>
+  <div class="main5">
+    <div class="A">
+      <div class="A1">
+        <i class="ri-medal-fill"></i>
+      </div>
+      <div class="A2">
+        <p>Center of Excellence</p>
+      </div>
+      <div class="A3">
+        <p>A Government of Gujarat Award</p>
+      </div>
+    </div>
+    <div class="B">
+      <div>
+        <p>Marwadi University has been proudly recognized as a <strong>"Centre of Excellence" by the Government of
+            Gujarat</strong>,
+          placing it among the<strong> TOP SEVEN INSTITUTIONS in the state</strong>. This prestigious status highlights
+          the university's
+          commitment to providing Quality Education, Excellent Research, Innovative Teaching Methodologies, Quality of
+          Extension Services, High Employability and Entrepreneurship are being imparted</p>
+      </div>
+    </div>
+  </div>
+  <div class="main6">
+    <div class="m61">
+      <p>Life on Campus</p>
+    </div>
+    <div class="m62">
+      <div class="m621">
+        <p>Festivals</p>
+      </div>
+      <div class="m622">
+        <div class="m622a">
+          <div class="m622amg1" id="m">
+            <p>Campus Beats</p>
+          </div>
+          <div class="m622amg2" id="n">
+            <p>Sports</p>
+          </div>
+          <div class="m622amg2" id="o">
+            <p>Cultural Festivals</p>
+          </div>
+          <div class="m622amg1" id="p">
+            <p>MU Fest</p>
+          </div>
+        </div>
+        <div class="m622b">
+          <div class="m622bmg1" id="x">
+            <p>Student Clubs</p>
+          </div>
+          <div class="m622bmg2" id="y">
+            <p>Cafeteria</p>
+          </div>
+          <div class="m622bmg2" id="z">
+            <p>Adanced Labs</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="main7">
+    <div class="C">
+      <p>Stories of Excellence</p>
+    </div>
+    <div class="D">
+      <a href="">STUDENTS</a>
+      <a href="">ALUMNI</a>
+      <a href="">RECRUITERS</a>
+      <a href="">PARENTS</a>
+    </div>
+    <div class="E">
+      <div class="E1"></div>
+      <div class="E2"></div>
+      <div class="E3"></div>
+    </div>
+  </div>
+  <div class="main8">
+    <div class="F">
+      <p>Our Recruiters</p>
+    </div>
+    <div class="G">
+      <div class="G1">
+        <div class="G11"></div>
+        <div class="G12"></div>
+        <div class="G13"></div>
+        <div class="G14"></div>
+      </div>
+      <div class="G2">
+        <div class="G21"></div>
+        <div class="G22"></div>
+        <div class="G23"></div>
+        <div class="G24"></div>
+        <div class="G25"></div>
+      </div>
+    </div>
+  </div>
+  <footer>
+    <div class="X">
+      <p>Take the Next Step</p>
+    </div>
+    <div class="Y">
+      <div class="Y1">
+        <button>
+          <p><i class="ri-file-2-fill"></i> APPLY NOW</p>
+        </button>
+      </div>
+      <div class="Y2">
+        <button><i class="ri-headphone-fill"></i> GET IN TOUCH</button>
+      </div>
+      <div class="Y3">
+        <button><i class="ri-map-pin-2-fill"></i> VISIT THE CAMPUS</button>
+      </div>
+    </div>
+    <div class="Z">
+      <div class="Z1">
+        <p>Quick Links</p><br>
+        <a href="">FAQs</a>
+        <a href="">Careers</a>
+        <a href="">UGC Proform</a>
+        <a href="">Disclosure</a>
+        <a href="">NIRF</a>
+        <a href="">Academic Calendar</a>
+        <a href="">Code of Conduct</a>
+        <a href="">Naac</a>
+        <a href="">Tender</a>
+        <a href="">Right to Information</a>
+        <a href="">Annual Report</a>
+      </div>
+      <div class="Z2">
+        <p>Centres</p><br>
+        <a href="">MUIIR</a>
+        <a href="">CEFB</a>
+        <a href="">Cells</a>
+        <a href="">Women Cell</a>
+        <a href="">Placement Cells</a>
+        <a href="">Anti Ragging Cells</a>
+        <a href="">Equal Opportunity Cell</a>
+        <a href="">Socio-Economically Disadvantaged Group Cell (SEDG)</a>
+      </div>
+      <div class="Z3">
+        <p>Downloads</p><br>
+        <a href="">Brochure</a>
+        <a href="">MU Statutes & Ordinances</a>
+        <a href="">University Strategic Plan</a>
+        <a href="">Inclusion as per section 2(f) of the UGC Act 1956</a>
+        <a href="">Act No 9 of 2016</a>
+        <a href="">Whistleblower Policy</a>
+        <a href="">UGC Proform</a>
+        <a href="">SIRO Recognition</a>
+      </div>
+      <div class="Z4">
+        <p>Student Cornor</p><br>
+        <a href="">Login</a>
+        <a href="">LMS</a>
+        <a href="">Library</a>
+        <a href="">Alumni</a>
+        <a href="">Convocation</a>
+        <a href="">Internal Complaints Committee</a>
+        <a href="">National Academy Dipository</a>
+        <a href="">DigiLocker NAD</a>
+        <a href="">NAD-ABC</a>
+      </div>
+      <div class="Z5">
+        <p class="p1">Follow Us</p><br>
+        <i class="ri-facebook-circle-fill"></i> <i class="ri-instagram-fill"></i> <i class="ri-linkedin-box-fill"></i>
+        <i class="ri-youtube-fill"></i><br>
+        <p class="p2">
+          <srtong>Reach Us</srtong>
+
+          Rajkot-Morbi Road, Rajkot 360003 Gujarat, India
+
+          +91281723456
+
+          info@marwadiuniversity.ac.in
+
+          +918980030090
+        </p>
+      </div>
+    </div>
+    <p class="ram">&copy; Copyright Marwadi University. All Rights Reserved, 2025</p>
+  </footer>
+
+</body>
+
+</html>
